@@ -1,4 +1,4 @@
-module github.com/voloyev/go-wordress/v1
+module github.com/voloyev/go-wordress
 
 go 1.20
 
