@@ -1,4 +1,4 @@
-module github.com/voloyev/go-wordress
+module github.com/voloyev/go-wordpress
 
 go 1.20
 
